@@ -1,0 +1,4 @@
+.tools/
+exam-extracted/
+*.tar.gz
+__pycache__/
